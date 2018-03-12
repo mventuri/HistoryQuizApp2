@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!--Question font size-->
+    <dimen name="question">18sp</dimen>
+
+    <!--Image Margin-->
+    <dimen name="imageMargin">20dp</dimen>
+
+    <!--Image Height-->
+    <dimen name="imageHeight">200dp</dimen>
+
+    <!--Padding Top-->
+    <dimen name="paddingTop">10dp</dimen>
+
+    <!--Padding Lateral-->
+    <dimen name="paddingLateral">5dp</dimen>
+
+    <!--Intro font size-->
+    <dimen name="intro">14sp</dimen>
+
+    <!--Intro Padding Bottom-->
+    <dimen name="introPaddingBottom">8sp</dimen>
+</resources>

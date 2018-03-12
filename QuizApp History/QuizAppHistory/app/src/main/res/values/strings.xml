@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">History Quiz</string>
+
+    <!--Intro-->
+    <string name="intro">Answer these questions and show the world you\'re a History expert!</string>
+
+    <!--Question 1: Question and answers-->
+
+    <string name="q1">1. When did World War II start?</string>
+    <string name="q1_answer1">September, 1st 1939</string>
+    <string name="q1_answer2">September, 3rd 1939</string>
+    <string name="q1_answer3">July, 10th 1942</string>
+
+    <!--Question 2: Question-->
+
+    <string name="question2">2. Write down, in numbers, the year of the first moonlanding</string>
+
+    <!--Question 3: Question and answers-->
+
+    <string name="q3">3. Two of these countries are EU funding members. Which ones?</string>
+    <string name="q3_answer1">Italy</string>
+    <string name="q3_answer2">France</string>
+    <string name="q3_answer3">United Kingdom</string>
+
+    <!--Question 4: Question-->
+
+    <string name="q4">4. Write the year (number) of the Russo–Japanese War</string>
+
+    <!--Question 5: Question and answers-->
+
+    <string name="q5">5. What is the best known D-Day of World War II?</string>
+    <string name="q5_answer1">Pearl Harbour Attack</string>
+    <string name="q5_answer2">The day of the Normandy landings</string>
+    <string name="q5_answer3">The end of the Potsdam Conference</string>
+
+    <!--Question 6: Question and answers-->
+
+    <string name="q6">6. Which U.S. President Served More Than Two Terms?</string>
+    <string name="q6_answer1">Theodore Roosevelt</string>
+    <string name="q6_answer2">Franklin Delano Roosvelt</string>
+    <string name="q6_answer3">Richard Milhous Nixon</string>
+
+    <!--Question 7: Question and answers-->
+
+    <string name="q7">7. What was the capital of the Federal Republic of Germany?</string>
+    <string name="q7_answer1">Bonn</string>
+    <string name="q7_answer2">Berlin</string>
+    <string name="q7_answer3">Pankow</string>
+
+    <!--Question 8: Question and answers-->
+
+    <string name="q8">8. Who said \"Never, never, never give up\"?</string>
+    <string name="q8_answer1">B. Mussolini</string>
+    <string name="q8_answer2">F.D. Roosvelt</string>
+    <string name="q8_answer3">W. Churchill</string>
+
+    <!--Question 9: Question and answers-->
+
+    <string name="q9">9. Which country(ies) was/were in the Triple Entente?</string>
+    <string name="q9_answer1">France</string>
+    <string name="q9_answer2">Italy</string>
+    <string name="q9_answer3">Russia</string>
+
+    <!--Question 10: Question and answers-->
+
+    <string name="q10">10. When did the Spanish Civil War end?</string>
+    <string name="q10_answer1">1839</string>
+    <string name="q10_answer2">1939</string>
+    <string name="q10_answer3">1936</string>
+
+
+    <!--Button-->
+
+    <string name="check_answers">Check answers</string>
+
+
+</resources>
